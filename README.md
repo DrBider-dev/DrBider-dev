@@ -13,7 +13,7 @@ I am passionate about technology and open source software. I currently use **Arc
 ## Contact
 
 You can find me at:
-- **Email:** [brayanag9705@gmail.com]
-- **GitHub:** [https://github.com/DrBider-dev]
+- [**Email:**] {brayanag9705@gmail.com}
+- [**GitHub:**] {https://github.com/DrBider-dev}
 
 Thanks for checking out my profile! :3
