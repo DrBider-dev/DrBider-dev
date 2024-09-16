@@ -6,7 +6,7 @@ I am passionate about technology and open source software. I currently use **Arc
 
 ## Skills
 
-- **Programming Languages:** [I'm not an expert but I like Java and Python]
+- **Programming Languages:** I'm not an expert but I like Java and Python
 - **Operating Systems:** I use Arch btw
 - **Interests:** Maths, Astronomy and Ethical Hacking.
 
