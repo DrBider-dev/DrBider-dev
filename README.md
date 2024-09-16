@@ -1,4 +1,4 @@
-# Hi, I'm [Brayan] 👋
+# Hi, I'm Brayan 👋
 
 ## About Me
 
