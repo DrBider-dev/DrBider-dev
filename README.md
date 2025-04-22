@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Brayan 👋
 
-<!--
-**DrBider-dev/DrBider-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am passionate about technology and open source software. I currently use **Arch Linux** as my main operating system and enjoy exploring topics related to programming, software development, and cybersecurity. I am a student at the Universidad Distrital in the Systems Engineering program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages:** I'm not an expert but I like Java and Python
+- **Operating Systems:** I use Arch btw
+- **Interests:** Maths, Astronomy and Ethical Hacking.
+- **Owls:** Very beautiful.
+- **Karate:** I can't live without it 
+## Contact
+
+You can find me at:
+- **Email:** brayanag9705@gmail.com
+- **GitHub:** https://github.com/DrBider-dev
+
+Thanks for checking out my profile! :3
