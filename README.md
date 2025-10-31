@@ -26,13 +26,15 @@ I use **Arch Linux** (with **BSPWM** and **paru**) as my main environment, enjoy
 ---
 
 ### 🧠 Technical Skills
-
+<div aling="center">
 | Category | Technologies |
 |-----------|---------------|
 | 💻 **Languages** | Java, Python, JavaScript, Bash |
 | 🧰 **Tools** | Git, Docker, MySQL, Packet Tracer |
 | ⚙️ **Operating Systems** | Arch Linux, Windows |
 | 🌐 **Networking** | Topological design, Routing, VLANs, Mikrotik |
+</div>
+
 
 ---
 
