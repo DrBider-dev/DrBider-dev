@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm <span style="color:#00BFA6;">Brayan Ag</span></h1>
+<h1 align="center">👋 Hi there! I'm <span style="color:#00BFA6;">Brayan</span></h1>
 
 <p align="center">
   <b>Java Developer | Linux Enthusiast | Karateka 🥋</b>
